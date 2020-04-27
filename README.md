@@ -41,3 +41,8 @@ In order to check compliance, the case model must be deployed to Chimera.
 ## The example case model
 
 The example [Emergency case model](Emergency.json) can be downloaded and imported into Gryphon.
+
+## The CAT example model
+Below find the first version of the computer-aided translation example. In the paper is an version adapted to meet the compliance requirements.
+![Download the CAT model](./figures/cat_v1.svg)
+<img src="./figures/cat_v1.svg">
